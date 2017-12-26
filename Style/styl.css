@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+  box-sizing: border-box;
+}
+
+#main {
+  border-radius: 10px;
+  background-color: blue;
+  width: 75%;
+  margin: 0 auto;
+  height: auto;
+  padding: 25px;
+  border: 2px solid darkblue;
+}
